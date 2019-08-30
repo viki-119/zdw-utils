@@ -1,0 +1,22 @@
+{
+  "name": "zdw-utils",
+  "version": "1.0.1",
+  "description": "function",
+  "main": "index.js",
+  "scripts": {
+    "test": "zdw-utils test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viki-119/zdw-utils.git"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "张大伟",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viki-119/zdw-utils/issues"
+  },
+  "homepage": "https://github.com/viki-119/zdw-utils#readme"
+}
